@@ -39,7 +39,7 @@ Os mais relevantes são
 + Solicitar Reavaliação
 + Testar plataforma
 + Manutenção da Plataforma
-+ +Classificar Respostas
++ Classificar Respostas
 
 ![Diagrama de Casos de Uso](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Diag%20Use%20Cases.png)
 
@@ -48,9 +48,26 @@ Os use Cases estao descritos pormenorizadamente no relatorio da fase1 na pasta r
 Realizamos também alguns diagramas como modelo de dominio e diagramas de sequencia/ use case , para ajudar a perceber melhor as entidades que estão relacionadas e as relações.
 ![Modelo Domínio](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/dominio.png)
 
+O diagrama de atividades abaixo apresentdo demonstra os estados possíveis de uma prova desde que é criada ate ser corrigida.
 ![Diagrama de Atividade](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/ras-diag-maq-est.png)
 
 
 ## Fase 2- Modelação
+Esta fase fornece uma visão geral das metas e objetivos da arquiteturaproposta, destacando a sua relevância no contexto do aprimoramento da experiência educacional
+e na eficiência operacional da instituição.
+Incialmente e como sugerido pelos docentes, realizamos uma decomposição funcional dos requisitos funcionais em grupos funcionais para que fosse mais fácil identificar os grupos funcionais e os respetivos microserviços.
+Foram então identificados os grupos funcionais que estão presentes na figura abaixo.
+![Grupos Funcionais](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Functional%20Decomposition.png)
+
+Dados como definidos os grupos funcionais definimos então os microsserviços, unindo alguns grupos funcionais que possuíam características semelhantes .
+
+Após isto construímos diagramas de classes para cada um dos microsserviços, para que fosse possível estruturar através de um paradigma orientado a objetos os microserviços.
+Construímos um diagrama de componentes para delinear a estrutura global do nosso sistema.
+
+![Component](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/componentes.png)
+
+Por fim realizamos um diagrama de deployment para ajudar a perceber como seria dado o deplou da aplicacção e como está construído cada microsserviço.
+![Deplyment](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/diagrama-deployment-teste.png)
+
 
 ## Fase 3- Implementação
