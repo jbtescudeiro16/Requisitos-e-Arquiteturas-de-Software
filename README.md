@@ -99,7 +99,8 @@ O aluno realiza uma prova :
 ![Preencher Prova](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PREENCHER_PROVA.png)
 
 Após concluir uma prova a mesma fica a aguardar correção na lista de provas concluídas:
-![Provas Concluídas Aluno](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PProvasConcluidas_Aluno.png)
+![Provas Concluídas Aluno](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PProvasConluidas_Aluno.png)
+
 
 Após a prova ser corrigida é possível consultar a correção da prova realizada:
 ![Consultar Prova](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Consultar%20Prova.png)
