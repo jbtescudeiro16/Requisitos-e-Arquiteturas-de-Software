@@ -72,3 +72,10 @@ Por fim realizamos um diagrama de deployment para ajudar a perceber como seria d
 
 ## Fase 3- Implementação
 Na terceira fase o objetivo seria implementar a solução baseado na arquitetura definida na fase anterior. Assim decidimos realizar apenas as operações correspondentes ao MVP exigido pelos docentes que continha as seguintes funcionalidades:
+
+
+
+Passamos então para a implmentação dos microsserviços, bem como da API GATEWAY responsável por funcionar como ponte entre o Front-End e o Back-End .
+Cada microsserviço utilizou a linguagem com a qual estava mais familiarizado.
+O Front-End foi realizado em React, e o Back-End em javascript, bem como mongoDB ou java e MYSQL.
+De seguida sáo apresentadas algumas fotografias correspondentes ao produto final em execução.
