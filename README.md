@@ -79,3 +79,8 @@ Passamos então para a implmentação dos microsserviços, bem como da API GATEW
 Cada microsserviço utilizou a linguagem com a qual estava mais familiarizado.
 O Front-End foi realizado em React, e o Back-End em javascript, bem como mongoDB ou java e MYSQL.
 De seguida sáo apresentadas algumas fotografias correspondentes ao produto final em execução.
+
+### View Docente
+
+### View Aluno
+
