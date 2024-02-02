@@ -80,7 +80,28 @@ Cada microsserviço utilizou a linguagem com a qual estava mais familiarizado.
 O Front-End foi realizado em React, e o Back-End em javascript, bem como mongoDB ou java e MYSQL.
 De seguida sáo apresentadas algumas fotografias correspondentes ao produto final em execução.
 
+
+### Login
+O login possui funcionalidades de criar e autenticar utilizadores (alunos ou docentes).Neste microserviço(Gestão de users) foi implementado um padrão observer para as notificações.
+![Login](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/login.png)
+
+
 ### View Docente
 
-### View Aluno
+### View Aluno:
+Após ser efetuada a autenticação, o aluno entra para a página inicial onde aparecem as provas a decorrer para as quais ele está inscrito 
+![Main Page Aluno](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/MainPage_Aluno.png)
+
+Quando o aluno seleciona uma prova para realizar, são apresentados os detalhes da prova :
+![Realizar Prova](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/rEALIZARPROVA.png)
+
+O aluno realiza uma prova :
+![Preencher Prova](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PREENCHER_PROVA.png)
+
+Após concluir uma prova a mesma fica a aguardar correção na lista de provas concluídas:
+![Provas Concluídas Aluno](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PProvasConcluidas_Aluno.png)
+
+Após a prova ser corrigida é possível consultar a correção da prova realizada:
+![Consultar Prova](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Consultar%20Prova.png)
+
 
