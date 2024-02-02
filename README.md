@@ -66,8 +66,9 @@ Construímos um diagrama de componentes para delinear a estrutura global do noss
 
 ![Component](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/componentes.png)
 
-Por fim realizamos um diagrama de deployment para ajudar a perceber como seria dado o deplou da aplicacção e como está construído cada microsserviço.
+Por fim realizamos um diagrama de deployment para ajudar a perceber como seria dado o deploy da aplicação e como está construído cada microsserviço.
 ![Deplyment](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/diagrama-deployment-teste.png)
 
 
 ## Fase 3- Implementação
+Na terceira fase o objetivo seria implementar a solução baseado na arquitetura definida na fase anterior. Assim decidimos realizar apenas as operações correspondentes ao MVP exigido pelos docentes que continha as seguintes funcionalidades:
