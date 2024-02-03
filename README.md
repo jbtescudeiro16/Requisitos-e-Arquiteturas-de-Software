@@ -43,7 +43,7 @@ Os mais relevantes são
 
 
 
-<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Diag%20Use%20Cases.png" alt="Use Cases" width="700"/>
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Diag%20Use%20Cases.png" alt="Use Cases" width="500"/>
 
 Os use Cases estao descritos pormenorizadamente no relatorio da fase1 na pasta relatorios.
 Realizamos também alguns diagramas como modelo de dominio e diagramas de sequencia/ use case , para ajudar a perceber melhor as entidades que estão relacionadas e as relações.
