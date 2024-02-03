@@ -103,7 +103,8 @@ Após concluir uma prova a mesma fica a aguardar correção na lista de provas c
 
 
 Após a prova ser corrigida é possível consultar a correção da prova realizada:
-<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Consultar%20Prova.png" alt="Consultar Prova" width="300"/>
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Consultar%20Prova.png" alt="Consultar Prova" width="500"/>
 
 
 
