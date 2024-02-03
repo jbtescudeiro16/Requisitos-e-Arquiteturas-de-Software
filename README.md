@@ -90,17 +90,20 @@ O login possui funcionalidades de criar e autenticar utilizadores (alunos ou doc
 
 ### View Aluno:
 Após ser efetuada a autenticação, o aluno entra para a página inicial onde aparecem as provas a decorrer para as quais ele está inscrito 
-![Main Page Aluno](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/MainPage_Aluno.png)
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/MainPage_Aluno.png" alt="Main Page" width="700"/>
 
 Quando o aluno seleciona uma prova para realizar, são apresentados os detalhes da prova :
-![Realizar Prova](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/rEALIZARPROVA.png)
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/rEALIZARPROVA.png" alt="Realizar Prova" width="700"/>
 
 O aluno realiza uma prova :
-![Preencher Prova](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PREENCHER_PROVA.png)
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PREENCHER_PROVA.png" alt="Preencher Prova" width="700"/>
 
 Após concluir uma prova a mesma fica a aguardar correção na lista de provas concluídas:
-![Provas Concluídas Aluno](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PProvasConluidas_Aluno.png)
 
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/PProvasConluidas_Aluno.png" alt="Provas Consultadas" width="700"/>
 
 Após a prova ser corrigida é possível consultar a correção da prova realizada:
 
