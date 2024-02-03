@@ -41,15 +41,18 @@ Os mais relevantes são
 + Manutenção da Plataforma
 + Classificar Respostas
 
-![Diagrama de Casos de Uso](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Diag%20Use%20Cases.png)
 
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Diag%20Use%20Cases.png" alt="Use Cases" width="700"/>
 
 Os use Cases estao descritos pormenorizadamente no relatorio da fase1 na pasta relatorios.
 Realizamos também alguns diagramas como modelo de dominio e diagramas de sequencia/ use case , para ajudar a perceber melhor as entidades que estão relacionadas e as relações.
-![Modelo Domínio](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/dominio.png)
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/dominio.png" alt="Dominio" width="700"/>
 
 O diagrama de atividades abaixo apresentdo demonstra os estados possíveis de uma prova desde que é criada ate ser corrigida.
-![Diagrama de Atividade](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/ras-diag-maq-est.png)
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/ras-diag-maq-est.png" alt="Atividades" width="700"/>
 
 
 ## Fase 2- Modelação
@@ -57,17 +60,21 @@ Esta fase fornece uma visão geral das metas e objetivos da arquiteturaproposta,
 e na eficiência operacional da instituição.
 Incialmente e como sugerido pelos docentes, realizamos uma decomposição funcional dos requisitos funcionais em grupos funcionais para que fosse mais fácil identificar os grupos funcionais e os respetivos microserviços.
 Foram então identificados os grupos funcionais que estão presentes na figura abaixo.
-![Grupos Funcionais](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Functional%20Decomposition.png)
+
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/Functional%20Decomposition.png" alt="Grupos Funcionais" width="700"/>
 
 Dados como definidos os grupos funcionais definimos então os microsserviços, unindo alguns grupos funcionais que possuíam características semelhantes .
 
 Após isto construímos diagramas de classes para cada um dos microsserviços, para que fosse possível estruturar através de um paradigma orientado a objetos os microserviços.
 Construímos um diagrama de componentes para delinear a estrutura global do nosso sistema.
 
-![Component](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/componentes.png)
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/componentes.png" alt="Component" width="700"/>
 
 Por fim realizamos um diagrama de deployment para ajudar a perceber como seria dado o deploy da aplicação e como está construído cada microsserviço.
-![Deplyment](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/diagrama-deployment-teste.png)
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/diagrama-deployment-teste.png" alt="Deployment" width="700"/>
 
 
 ## Fase 3- Implementação
@@ -83,8 +90,8 @@ De seguida sáo apresentadas algumas fotografias correspondentes ao produto fina
 
 ### Login
 O login possui funcionalidades de criar e autenticar utilizadores (alunos ou docentes).Neste microserviço(Gestão de users) foi implementado um padrão observer para as notificações.
-![Login](https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/login.png)
 
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/login.png" alt="Login" width="700"/>
 
 ### View Docente
 
