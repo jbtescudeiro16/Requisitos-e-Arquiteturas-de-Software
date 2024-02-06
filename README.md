@@ -94,6 +94,19 @@ O login possui funcionalidades de criar e autenticar utilizadores (alunos ou doc
 <img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/login.png" alt="Login" width="700"/>
 
 ### View Docente
+Posteriormente ao processo de autenticação, o docente é direcionado para a sua página principal em que são listadas as provas às quais tem acesso, bem como pode iniciar a criação de uma prova.
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/main_docente.png" alt="Main Page Docente" width="700"/>
+
+Posteriormente ao processo de autenticação, o docente é direcionado para a sua página principal em que são listadas as provas às quais tem acesso, bem como pode iniciar a criação de uma prova, edição (não implementado) e pode iniciar a correção automática de provas, bem como publicas os resultados das provas que já foram corrigidas.
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/CriarProva.png" alt="Criar Prova" width="700"/>
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/Criar_Questao.png" alt="Criar Questao" width="700"/>
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/Provaspcorrigir.png" alt="StarT Correction Page" width="700"/>
+
+<img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/Corrigir.png" alt="Correct Page" width="700"/>
+
 
 ### View Aluno:
 Após ser efetuada a autenticação, o aluno entra para a página inicial onde aparecem as provas a decorrer para as quais ele está inscrito 
