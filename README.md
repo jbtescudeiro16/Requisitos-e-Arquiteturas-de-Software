@@ -93,18 +93,21 @@ O login possui funcionalidades de criar e autenticar utilizadores (alunos ou doc
 
 <img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/raw/main/Photos/login.png" alt="Login" width="700"/>
 
-### View Docente
-Posteriormente ao processo de autenticação, o docente é direcionado para a sua página principal em que são listadas as provas às quais tem acesso, bem como pode iniciar a criação de uma prova.
+### View Docente :
+Posteriormente ao processo de autenticação, o docente é direcionado para a sua página principal em que são listadas as provas às quais tem acesso, bem como pode iniciar a criação de uma prova, edição (não implementado) e pode iniciar a correção automática de provas, bem como publicas os resultados das provas que já foram corrigidas.
 <img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/main_docente.png" alt="Main Page Docente" width="700"/>
 
-Posteriormente ao processo de autenticação, o docente é direcionado para a sua página principal em que são listadas as provas às quais tem acesso, bem como pode iniciar a criação de uma prova, edição (não implementado) e pode iniciar a correção automática de provas, bem como publicas os resultados das provas que já foram corrigidas.
+Para criar uma prova, o docente deve inserir o título de uma prova, uma lista de alunos, descrição, dia e hora, duração e número de versóes..
 
 <img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/CriarProva.png" alt="Criar Prova" width="700"/>
 
+Após dar início à criação de uma prova , é necessário criar questões (apenas de escolha multipla)  adicionando as possiveis respostas, a questão e as cotações.
 <img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/Criar_Questao.png" alt="Criar Questao" width="700"/>
 
+Na secção de correção é possível verificar quais as provas que ainda não estáo corrigidas.
 <img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/Provaspcorrigir.png" alt="StarT Correction Page" width="700"/>
 
+Para inciar a correção de uma prova:
 <img src="https://github.com/jbtescudeiro16/Requisitos-e-Arquiteturas-de-Software/blob/main/Photos/Corrigir.png" alt="Correct Page" width="700"/>
 
 
